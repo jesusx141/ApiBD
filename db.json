@@ -1,6 +1,7 @@
   {
   "usuario": [
-    { "id": 1,"title": "      juan" },
+    { "id": 1,"title": "      juan",
+     "body": "pruuuuu" },
     { "id": 2, "title": "maria" },
     { "id": 3, "title": "pedro" }
   ],
