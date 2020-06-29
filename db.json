@@ -1,7 +1,7 @@
 {
   "usuario": [
-    { "id": 1,"title": "juan" },
-    { "id": 2, "title": "maria" },
-    { "id": 3, "title": "pedro" }
+    { "id": 1,"title": "acerca de", "body": "cualquier cosa" },
+    { "id": 2, "title": "contacto" }
+    
   ]
 }
