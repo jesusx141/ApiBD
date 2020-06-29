@@ -1,11 +1,7 @@
-  {
+{
   "usuario": [
-    { "id": 1,"title": "acerca",
-     "body": "pruuuuueba me las naranjas xd aaaaaaaaaaaaaaaaaaaaaaaaaaaaah popo y pipi xd"
-      }
-    { "id": 2,"title": "acerca",
-     "body": "pruuuuueba me las naranjas xd aaaaaaaaaaaaaaaaaaaaaaaaaaaaah popo y pipi xd"
-      }
-    
+    { "id": 1,"title": "juan" },
+    { "id": 2, "title": "maria" },
+    { "id": 3, "title": "pedro" }
   ]
 }
