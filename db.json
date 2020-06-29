@@ -1,7 +1,7 @@
 {
   "usuario": [
     { "id": 1,"title": "Acerca de", "body": "cobro diario se basa en la gestion de datos de un cliente." },
-    { "id": 2, "title": "Contacto","body": "Para cualquier sugerencia, merla.con@outlook.com" },
+    { "id": 2, "title": "Contacto","body": "Para cualquier sugerencia: merla.con@outlook.com" },
     { "id": 3, "title": "Power by","body": "Eder sierra jesus merlano isaias garcia Dairo perez" },
     { "id": 4, "title": "Facultad","body": "Ciencias basicas ingenieria y arquitectura - CECAR" }
     
